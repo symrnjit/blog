@@ -3,8 +3,8 @@ html {
 }
 body {
 	font-size: 1rem;
-	/* font-family: "Special Elite", serif; */
-	font-family: "Roboto", sans-serif;
+	font-family: 'Inconsolata', monospace;
+	font-weight: 500;
 	line-height: 1;
 	letter-spacing: 0.5pt;
 	margin: 0;
