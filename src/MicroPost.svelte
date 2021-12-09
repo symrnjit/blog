@@ -14,7 +14,7 @@
 	<div class="post" id="id">
 		<small class="time">{post.time}</small>
 		<div class="content">
-			{post.content}
+			{@html post.content}
 		</div>
 	</div>
 </div>
