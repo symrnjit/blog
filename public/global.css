@@ -195,6 +195,7 @@ code.block {
 	}
 	header {
 		padding: 0;
+		box-shadow: 0 1px 2px #ccc;
 	}
 	header .logo img {
 		height: 60px;
