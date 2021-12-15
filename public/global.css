@@ -175,6 +175,7 @@ code {
     padding: 10px;
     background: #fdfdff;
     border-radius: 4px;
+	font-size: .8rem;
 }
 code.block {
 	display: block;
