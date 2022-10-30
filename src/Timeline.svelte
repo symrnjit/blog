@@ -6,7 +6,7 @@
 	let timeline=[];
 	onMount(async () => {
 		const res = await fetch(
-			"https://simranz.github.io/db.json"
+			"https://symrnjit.github.io/db.json"
 		);
 		const db = await res.json();
 		timeline = db.timeline.sort( function( a,b){
