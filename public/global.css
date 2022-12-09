@@ -142,7 +142,6 @@ footer {
 	    border-radius: 9999px;
     background: hsla(90,4%,80%,.35);
     color: #151d21;
-    white-space: nowrap;
     padding: 0 10px;
     text-decoration: none;
 }
