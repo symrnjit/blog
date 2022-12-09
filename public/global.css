@@ -9,11 +9,11 @@ body {
 	letter-spacing: 0.5pt;
 	margin: 0;
 	display: grid;
-	grid-template-rows: 10vh 85vh 5vh;
+	grid-template-rows: 10vh 85vh 0vh;
 	grid-template-columns: 4vw auto 25vw;
 	grid-template-areas:
-		"left header right"
-		"left main right"
+		"left header header"
+		"left main main"
 		"footer footer footer";
 	background-color: #151d21;
 }
