@@ -15,7 +15,7 @@ body {
 		"left header header"
 		"left main main"
 		"footer footer footer";
-	background-color: #151d21;
+	background-color: #044453;
 }
 /* width */
 ::-webkit-scrollbar {
@@ -44,7 +44,7 @@ header .logo img {
 	display: none;
 }
 header .logo {
-	color: #d9d771;
+	color: #dabc4f;
 	font-weight: 500;
 }
 header a {
@@ -129,7 +129,7 @@ footer {
 	display: block;
 	margin-left: 15px;
 	color: #006ea9;
-	color: #d9d771;
+	color: #dabc4f;
 }
 .time::before {
 	content: "@";
